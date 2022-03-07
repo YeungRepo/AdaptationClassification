@@ -1,0 +1,13 @@
+{
+	"n_targets": 3310,
+	"n_bootstraps": 0,
+	"n_processed": 44661030,
+	"n_pseudoaligned": 210365,
+	"n_unique": 210228,
+	"p_pseudoaligned": 0.5,
+	"p_unique": 0.5,
+	"kallisto_version": "0.46.2",
+	"index_version": 10,
+	"start_time": "Sun Dec 12 14:10:14 2021",
+	"call": "kallisto quant -i GCA_000046845.1_ASM4684v1_cds_from_genomic.index -o results-kallisto/M9L8R3_S6 -t 6 fastq-merged/M9L8R3_S6_R1_001.fastq.gz fastq-merged/M9L8R3_S6_R2_001.fastq.gz"
+}

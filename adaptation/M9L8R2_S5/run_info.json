@@ -1,13 +1,13 @@
 {
-	"n_targets": 3310,
+	"n_targets": 3253,
 	"n_bootstraps": 0,
 	"n_processed": 43950799,
-	"n_pseudoaligned": 260462,
-	"n_unique": 260310,
+	"n_pseudoaligned": 260290,
+	"n_unique": 260141,
 	"p_pseudoaligned": 0.6,
 	"p_unique": 0.6,
 	"kallisto_version": "0.46.2",
 	"index_version": 10,
-	"start_time": "Sun Dec 12 14:08:35 2021",
-	"call": "kallisto quant -i GCA_000046845.1_ASM4684v1_cds_from_genomic.index -o results-kallisto/M9L8R2_S5 -t 6 fastq-merged/M9L8R2_S5_R1_001.fastq.gz fastq-merged/M9L8R2_S5_R2_001.fastq.gz"
+	"start_time": "Fri Mar 11 10:20:01 2022",
+	"call": "kallisto quant -i GCF_000046845.1_ASM4684v1_cds_from_genomic.index -o results-kallisto-v2/M9L8R2_S5 -t 6 fastq-merged/M9L8R2_S5_R1_001.fastq.gz fastq-merged/M9L8R2_S5_R2_001.fastq.gz"
 }
